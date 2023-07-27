@@ -1,0 +1,1 @@
+This is my readme file created inside of 0x01-git. Edited with emacs editor
